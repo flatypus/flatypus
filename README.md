@@ -6,7 +6,7 @@
 * You can reach me at flatypus#1423 on discord!
 
 Some projects I've worked on: <br><br>
-[<img src='https://www.youtube.com/s/desktop/7449ebf7/img/favicon_32x32.png' width='16px'/>](https://www.youtube.com/watch?v=KP3yoWUXz70)  Cardboard++: A really cool [project](https://github.com/nuggetbucket54/moneymoneyvr) I worked on with my friends [Alex](https://github.com/alexng353) and [Ryan](https://github.com/nuggetbucket54). We made a low-cost headset that tracks your head with an arduino and allows you to play any game in VR!<br>
-[<img src='https://www.edubeyond.dev/index/logo.png' width='16px'/>](https://edubeyond.dev)  EduBeyond: A tech-ed startup focused on bringing quality education to south-east asia. Read more about us [here](https://edubeyond.dev)<br>
+[<img src='https://www.youtube.com/s/desktop/7449ebf7/img/favicon_32x32.png' width='16px'/>](https://www.youtube.com/watch?v=KP3yoWUXz70)&nbsp; Cardboard++: A really cool [project](https://github.com/nuggetbucket54/moneymoneyvr) I worked on with my friends [Alex](https://github.com/alexng353) and [Ryan](https://github.com/nuggetbucket54). We made a low-cost headset that tracks your head with an arduino and allows you to play any game in VR!<br>
+[<img src='https://www.edubeyond.dev/index/logo.png' width='16px'/>](https://edubeyond.dev)&nbsp; EduBeyond: A tech-ed startup focused on bringing quality education to south-east asia. Read more about us [here](https://edubeyond.dev)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flatypus&show_icons=true&theme=radical)
 
