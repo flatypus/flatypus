@@ -10,10 +10,10 @@ Some projects I've worked on: <br>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=flatypus&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=flatypus&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatypus&count_private=true&show_icons=true&theme=radical&hide_border=true&layout=compact&hide=javascript&langs_count=6" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flatypus&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&layout=compact&hide=javascript&langs_count=6" />
     </td>
   </tr>
 </table>
