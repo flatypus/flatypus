@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Hinson! I'm a 15 year old developer based in Vancouver, Canada. 
+## 👋 Hi, I’m Hinson! I'm a 16 year old developer based in Vancouver, Canada. 
 
 I mostly write code for small side projects in python or typescript that do nothing other than to make my life slightly more interesting. I currently work as a software developer for EduBeyond, an ed-tech start up. In my spare time, I enjoy researching obscure topics on Wikipedia, learning geography (incorrectly) on Geoguessr, and video editing and directing for my [YouTube channel](https://youtube.com/flatypus) and other projects. You can reach me at flatypus#1423 on discord, or <a href="mailto:yhc3141@email.com">by email at yhc3141@email.com</a>.
 
