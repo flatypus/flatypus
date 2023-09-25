@@ -2,7 +2,7 @@
 ### I'm a 16 year old developer based in Vancouver, Canada. 
 
 [![wakatime](https://wakatime.com/badge/user/00eead22-fb14-4dd0-ab8a-3625cafbd50d.svg)](https://wakatime.com/@00eead22-fb14-4dd0-ab8a-3625cafbd50d)
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,svelte,nextjs,materialui,tailwind,css,html,nodejs,express,flask,mongodb,prisma,firebase,docker,gcp,cloudflare,heroku,figma,blender,git,github,githubactions,vscode,linux,md,selenium,arduino,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,svelte,nextjs,materialui,tailwind,css,html,nodejs,express,mongodb,prisma,vercel,firebase,docker,gcp,cloudflare,figma,git,github,githubactions,vscode,linux,md,discord)](https://skillicons.dev)
 
 I currently work as a full-stack software developer for EduBeyond, an ed-tech start up building a platform optimized for personalized learning. You can reach me at `flatypus` on discord, or <a href="mailto:yhc3141@gmail.com">by email at `yhc3141@gmail.com`</a>.
 
