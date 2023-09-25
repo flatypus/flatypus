@@ -1,7 +1,10 @@
 ## Hi, I’m Hinson.
 ### I'm a 16 year old developer based in Vancouver, Canada. 
 
-I write code for small side projects in python or typescript, as well as websites in React and Nextjs. I currently work as a software developer for EduBeyond, an ed-tech start up building a platform optimized for personalized learning. You can reach me at `flatypus` on discord, or <a href="mailto:yhc3141@gmail.com">by email at `yhc3141@gmail.com`</a>.
+[![wakatime](https://wakatime.com/badge/user/00eead22-fb14-4dd0-ab8a-3625cafbd50d.svg)](https://wakatime.com/@00eead22-fb14-4dd0-ab8a-3625cafbd50d)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,svelte,nextjs,materialui,tailwind,css,html,nodejs,express,flask,mongodb,prisma,firebase,docker,gcp,cloudflare,heroku,figma,blender,git,github,githubactions,vscode,linux,md,selenium,arduino,discord)](https://skillicons.dev)
+
+I currently work as a full-stack software developer for EduBeyond, an ed-tech start up building a platform optimized for personalized learning. You can reach me at `flatypus` on discord, or <a href="mailto:yhc3141@gmail.com">by email at `yhc3141@gmail.com`</a>.
 
 Some projects I've worked on: <br>
 &nbsp;[<img src='https://avatars.githubusercontent.com/u/107604072?s=64&v=4' width='16px'/>](https://edubeyond.dev)&nbsp; EduBeyond: A ed-tech startup focused on bringing quality education to south-east asia. Read more about us [here](https://edubeyond.dev)<br>
