@@ -23,4 +23,4 @@ Some projects I've worked on: <br>
   </tr>
 </table>
 
-![](https://pixel.flatypus.me/flatypus)
+![](https://pixel.flatypus.me/flatypus?type=tracker)
