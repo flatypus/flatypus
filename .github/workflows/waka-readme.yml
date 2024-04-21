@@ -21,4 +21,4 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_UPDATED_DATE: true
+          SHOW_TITLE: true
