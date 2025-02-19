@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2023 - To: 17 February 2025
+From: 19 May 2023 - To: 18 February 2025
 
 Total Time: 1,884 hrs 59 mins
 
