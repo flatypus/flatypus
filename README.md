@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 May 2023 - To: 30 August 2025
+From: 19 May 2023 - To: 31 August 2025
 
-Total Time: 2,444 hrs 19 mins
+Total Time: 2,452 hrs 21 mins
 
-TypeScript                 1,429 hrs 21 mins###############..........   58.14 %
-Python                     644 hrs 30 mins #######..................   26.22 %
-JSON                       72 hrs 13 mins  #........................   02.94 %
+TypeScript                 1,437 hrs 7 mins###############..........   58.27 %
+Python                     644 hrs 30 mins #######..................   26.13 %
+JSON                       72 hrs 13 mins  #........................   02.93 %
 Rust                       41 hrs 19 mins  .........................   01.68 %
-JavaScript                 26 hrs 37 mins  .........................   01.08 %
+JavaScript                 26 hrs 48 mins  .........................   01.09 %
 Dart                       22 hrs 26 mins  .........................   00.91 %
 Text                       20 hrs 21 mins  .........................   00.83 %
 Go                         19 hrs 44 mins  .........................   00.80 %
