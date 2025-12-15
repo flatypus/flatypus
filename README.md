@@ -1,10 +1,8 @@
 > **Last Action:** `right` | **Date:** 2025-12-15
 
 ![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.png?raw=true)
-### 🕹️ Live Bot State
 > **Last Action:** `right` | **Date:** 2025-12-15
 
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.png?raw=true)
 [![wakatime](https://wakatime.com/badge/user/00eead22-fb14-4dd0-ab8a-3625cafbd50d.svg)](https://wakatime.com/@00eead22-fb14-4dd0-ab8a-3625cafbd50d)
 ![](https://komarev.com/ghpvc/?username=flatypus)
 ![](https://pixel.flatypus.me/flatypus?type=tracker)
