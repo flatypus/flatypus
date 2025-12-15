@@ -1,3 +1,6 @@
+> **Last Action:** `right` | **Date:** 2025-12-15
+
+![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.png?raw=true)
 ### 🕹️ Live Bot State
 > **Last Action:** `right` | **Date:** 2025-12-15
 
