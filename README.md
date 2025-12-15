@@ -33,5 +33,7 @@ TeX                        19 hrs 55 mins  .........................   00.70 %
 
 
 <!--START_SECTION:mc-->
-# image []
+> **Last Action:** `left` | **Date:** 2025-12-15
+
+![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.png?raw=true)
 <!--END_SECTION:mc-->
