@@ -29,5 +29,6 @@ TeX                        19 hrs 55 mins  .........................   00.70 %
 
 ![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
 
+![Bot View](https://mc.flatypus.me/latest.jpg)
 <!--END_SECTION:mc-->
 
