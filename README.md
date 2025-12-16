@@ -1,43 +1,3 @@
-
-> **Last Action:** `forwards-jump` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `right` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `left` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `forwards-jump` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `e` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `left` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `right` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `right` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `left` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
-
-> **Last Action:** `right` | **Date:** 2025-12-16
-
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
 [![wakatime](https://wakatime.com/badge/user/00eead22-fb14-4dd0-ab8a-3625cafbd50d.svg)](https://wakatime.com/@00eead22-fb14-4dd0-ab8a-3625cafbd50d)
 ![](https://komarev.com/ghpvc/?username=flatypus)
 ![](https://pixel.flatypus.me/flatypus?type=tracker)
@@ -65,7 +25,5 @@ TeX                        19 hrs 55 mins  .........................   00.70 %
 
 
 <!--START_SECTION:mc-->
-> **Last Action:** `right` | **Date:** 2025-12-16
 
-![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.png?raw=true)
 <!--END_SECTION:mc-->
