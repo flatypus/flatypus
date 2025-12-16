@@ -3,6 +3,10 @@
 
 ![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
 
+> **Last Action:** `right` | **Date:** 2025-12-16
+
+![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
+
 > **Last Action:** `left` | **Date:** 2025-12-16
 
 ![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
