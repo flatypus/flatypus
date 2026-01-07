@@ -22,6 +22,8 @@ TeX                        19 hrs 55 mins  .........................   00.69 %
 
 <!--END_SECTION:waka-->
 
+![296c10e038096c7845345a3e4625a8091904b49aef4b92941e01d806a45ad6b1](https://github.com/user-attachments/assets/6421cc79-3fe8-484b-906d-c071f7cb3b3e)
+
 <!--START_SECTION:mc-->
 hehe wonder what hinson's cookin up...soon
 > **Last Action:** `right` | **Date:** 2025-12-16
