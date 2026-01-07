@@ -21,10 +21,9 @@ TeX                        19 hrs 55 mins  .........................   00.69 %
 ```
 
 <!--END_SECTION:waka-->
-[<img alt="image" src="https://github.com/flatypus/flatypus/assets/68029599/0a302dc1-501c-43a0-ae8d-37ec4817f3bd">](https://flatypus.me)
 
 <!--START_SECTION:mc-->
-
+hehe wonder what hinson's cookin up...soon
 > **Last Action:** `right` | **Date:** 2025-12-16
 
 ![Bot View](https://github.com/flatypus/flatypus/blob/main/mc-state.jpg?raw=true)
